@@ -34,3 +34,23 @@ section{
     background-repeat: no-repeat;
     background-position: 10%;
 }
+h2{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.treble-width img{
+    width: 250px;
+    border-radius: 10px;
+    padding-left: 5px;
+
+}
+.treble-width{
+    width: 30%;
+    margin: 5%;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 10px 10px  30px  rgb(207, 207, 219);
+
+}
